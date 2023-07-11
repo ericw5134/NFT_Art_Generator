@@ -3,13 +3,20 @@
 ## Table of Contents
 
 - [Project Info](#project-info)
+- [Group](#group-members)
 - [Project Summary](#project-summary)
 - [Requirments](#Requirments)
 - [Installation](#installation)
 
+## My Group Mate
+
+https://www.linkedin.com/in/william-hong03/
+
 ## Project Info
 
 We created this randomly generating art program so that it is easier to create numerous amout of art piece by just drawing few components. I learned a lot about python and how images work. We were stuck on a problem for 3 hours, but it turns out the we were careless about the name of the imported libraries! This challenge led us to learn more about python!
+
+https://devpost.com/software/random-nft-art-generator to learn more about our project
 
 ## Project Summary
 
